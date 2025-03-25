@@ -47,8 +47,9 @@ python ar_keyboard.py
 ## Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the project.
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 For any questions or suggestions, reach out via **mshaheerkhalid989@gmail.com** 
+
+## Working Screenshot
+![Screenshot 2025-03-24 134728](https://github.com/user-attachments/assets/aad207ac-9865-42ac-be9c-2f8831fde92e)
+
